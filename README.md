@@ -24,3 +24,16 @@ The Main Objective of this Project is to track total income and Expenses. Suppor
 -Is the current saving rate sufficient to achieve future financial goals?
 
 - Dashboard Interaction <a href="https://github.com/mdwasiquraishi-netizen/Data-Analysis-Dashboard/blob/main/Personal%20Finance%20Dashboard.png">View Dashboard</a>
+
+## Process
+-Data Collection
+-Data transformation
+-Create Pivot Table
+-Create KPIs
+-Create charts
+-Insert Slicers
+
+## Dashboard
+
+<img width="1339" height="593" alt="Personal Finance Dashboard" src="https://github.com/user-attachments/assets/476b1ecd-e573-40ea-bcfb-64039399582b" />
+
