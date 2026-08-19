@@ -22,3 +22,5 @@ The Main Objective of this Project is to track total income and Expenses. Suppor
 -Which savings goal requires the highest amount?
 -How much money is allocated toward different financial goals?
 -Is the current saving rate sufficient to achieve future financial goals?
+
+- Dashboard Interaction <a href="https://github.com/mdwasiquraishi-netizen/Data-Analysis-Dashboard/blob/main/Personal%20Finance%20Dashboard.png">View Dashboard</a>
