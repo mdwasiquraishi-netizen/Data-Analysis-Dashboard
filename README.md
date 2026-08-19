@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-An interactive Personal Finance Dashboard developed to track and analyze income, expenses, savings, budgets, bank transactions, accounts, and payment methods
+# Personal-Finance-Data-Analysis (Interactive Dashboard using MS EXcel)
+## Project Objective
+The Main Objective of this Project is to track total income and Expenses. Support Better Budgeting and financial planning decisions.
